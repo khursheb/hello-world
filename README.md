@@ -1,4 +1,4 @@
 # hello-world
 That thing:
-Yes stuff about me etc.
-And the sun is shining.
+<ul> <li>Yes stuff about me etc.</li>
+<li>And the sun is shining.</li></ul>
